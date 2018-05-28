@@ -1,5 +1,5 @@
 function Find(target, array) {
-    let width = array.length;
+    const width = array.length;
     let height = array[0].length;
     if(width > 0 && height > 0) {
         let num1, num2;
